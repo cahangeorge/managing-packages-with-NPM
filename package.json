@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Cahan George",
 	"description": "A project that does something awesome",
-	"keywords": ["descriptive", "related", "words"],
+	"keywords": ["Cahan George", "freeCodeCamp", "Learn to be a programmer"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
